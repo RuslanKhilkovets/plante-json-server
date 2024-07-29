@@ -19,7 +19,7 @@
           "https://raw.githubusercontent.com/RuslanKhilkovets/Plante/main/public/img/buraki.png",
           "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwfVL4uKAfvhkA8PaN8ouPm4E6mKwdg7Efliv_7zIPnGaSXoSBOkieb-2SUuQNDp68gbD7H8RC_dVH5s6hh9YixAmXCzG_&usqp=CAE"
         ],
-        "isInStock": false,
+        "isInStock": true,
         "url": "buryak-tsukrovij-inkrustovane"
       },
       {
@@ -87,7 +87,7 @@
           "hhttps://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6FCGODSG7GK5MHrwKqUqErlHplrFNx5-W1JkpackjN0Tq6XP9EocHm7QV9ghIDskLuC4cK3lSGyV7itcGmFQnD6JvtwoJ1gnyYnlVHeyISvn7pH-mpXmw&usqp=CAE"
         ],
         "price": 3.40,
-        "isInStock": false,
+        "isInStock": true,
         "url": "kapusta-kitayska"
       },
       {
@@ -153,7 +153,7 @@
           "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwfVL4uKAfvhkA8PaN8ouPm4E6mKwdg7Efliv_7zIPnGaSXoSBOkieb-2SUuQNDp68gbD7H8RC_dVH5s6hh9YixAmXCzG_&usqp=CAE"
         ],
         "price": 3.40,
-        "isInStock": false,
+        "isInStock": true,
         "url": "buryak-tsukrovij-inkrustovane"
       },
       {
@@ -249,7 +249,7 @@
       "title": "Буряк (малий європакет)",
       "url": "buraki",
       "catalog": "vegetables-euro-package",
-      "isInStock": false,
+      "isInStock": true,
       "code": 1003,
       "producer": "Unknown",
       "weightItems": [0.1, 0.2, 0.5, 1],
